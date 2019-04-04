@@ -6,4 +6,4 @@ When the hamburger is clicked it animates into an X and the menu list pops up to
 
 ## Netlify
 
-Click [HERE](#) to view demo
+Click [HERE](https://angry-leakey-6c1b82.netlify.com/) to view demo
